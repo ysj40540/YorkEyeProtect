@@ -1,0 +1,3 @@
+# YorkEyeProtect
+Android 一个简单的护眼模式
+通过监听生命周期给activity的decorview添加一层蒙版来实现
